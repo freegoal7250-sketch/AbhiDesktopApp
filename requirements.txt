@@ -1,0 +1,7 @@
+pyinstaller
+keyboard
+pyperclip
+pynput
+pillow
+google-genai
+groq
